@@ -48,9 +48,9 @@
 <br>
 ` B: 안되지. 요즘 ContainerD라고 더 좋은게 나왔는데, 이걸도 다 바뀌는 추세야. 두고봐!이제 Docker로 만들었떤 이미지를 다시 만든다고 고생 좀 할걸. `
 
-**Docker가 유로화** -> *Docker Desktop 사용에 대해서만 유료화*
-**ContainerD라고 더 좋은게** -> *기존 Docker Engine 내에서 사용하던 기술*
-**Docker로 만들었던 이미지를 다시 만든다고** -> *OCI 표준이라서 다시 안 만들어도 됨!*
+**Docker가 유로화** -> *Docker Desktop 사용에 대해서만 유료화* <br>
+**ContainerD라고 더 좋은게** -> *기존 Docker Engine 내에서 사용하던 기술*<br>
+**Docker로 만들었던 이미지를 다시 만든다고** -> *OCI 표준이라서 다시 안 만들어도 됨!*<br>
 
 
 
